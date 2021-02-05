@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: THE Minecraft Bot
-    subtitle: AmritOnTop is an Advancet Minecraft Bot made with
+    subtitle: "AmritOnTop is an Advancet Minecraft Bot made with\_mineflayer"
     actions:
       - label: Learn More
         url: /features
