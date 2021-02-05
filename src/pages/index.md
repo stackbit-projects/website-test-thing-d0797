@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: THE Minecraft Bot
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: AmritOnTop is an Advancet Minecraft Bot made with
     actions:
       - label: Learn More
         url: /features
